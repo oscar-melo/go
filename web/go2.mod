@@ -1,4 +1,4 @@
-module general/users/rolesapi
+module gorilla
 
 go 1.17
 

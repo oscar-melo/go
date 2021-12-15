@@ -2,6 +2,8 @@ package server
 
 import (
 	"net/http"
+
+	"github.com/gorilla/mux"
 )
 
 type api struct {

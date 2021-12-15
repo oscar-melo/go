@@ -1,0 +1,11 @@
+# Server configurations
+server:
+  port: 8003
+
+# Database credentials
+database:
+  user: "ojato"
+  password: "Danzig4$1072*"
+  port: "3306"
+  host: "localhost"
+  name: "ejemplo"
